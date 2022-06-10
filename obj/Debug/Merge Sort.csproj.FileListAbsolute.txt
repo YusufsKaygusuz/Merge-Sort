@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Merge Sort\bin\Debug\Merge Sort.exe.config
+C:\Users\yusuf\source\repos\Merge Sort\bin\Debug\Merge Sort.exe
+C:\Users\yusuf\source\repos\Merge Sort\bin\Debug\Merge Sort.pdb
+C:\Users\yusuf\source\repos\Merge Sort\obj\Debug\Merge Sort.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Merge Sort\obj\Debug\Merge Sort.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Merge Sort\obj\Debug\Merge Sort.exe
+C:\Users\yusuf\source\repos\Merge Sort\obj\Debug\Merge Sort.pdb
